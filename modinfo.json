@@ -4,7 +4,10 @@
   "name": "Resin Regrow 2",
   "authors": ["Nietsnie"],
   "description": "Remake of Resin Regrow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "side": "Server",
-  "requiredOnClient": false
+  "requiredOnClient": false,
+  "dependencies": {
+    "game": "1.21.0"
+  }
 }
